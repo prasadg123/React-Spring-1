@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1005,
+    "studentName": "Kishore",
+    "passportNumber": 127499847
+  },
+  {
+    "id": 1006,
+    "studentName": "Akhil",
+    "passportNumber": 127459809
+  },
+  {
+    "id": 1007,
+    "studentName": "Avinash",
+    "passportNumber": 1274749
+  },
+  {
+    "id": 1008,
+    "studentName": "Kiran",
+    "passportNumber": 127465
+  }
+]
